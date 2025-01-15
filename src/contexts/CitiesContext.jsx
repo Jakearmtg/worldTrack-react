@@ -6,7 +6,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "https://jakearmtg.github.io/host-cities/";
+const BASE_URL = "https://jakearmtg.github.io/host-cities";
 
 const CitiesContext = createContext();
 
